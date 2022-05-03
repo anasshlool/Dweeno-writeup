@@ -39,4 +39,4 @@ A quick script to solve it :
 
 Flag :
 
-![flag](files/writeup00.png)
+![flag](files/writeup10.png)
