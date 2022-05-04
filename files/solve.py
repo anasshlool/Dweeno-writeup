@@ -1,5 +1,3 @@
-
-
 fil=open('output.txt','r').readlines()
 
 
